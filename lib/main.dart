@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'area_of_circle_view.dart'; // Import Area of Circle screen
-import 'arithmetic_view.dart'; // Import Arithmetic screen
-import 'simple_interest_view.dart'; // Import Simple Interest screen
+import 'views/area_of_circle_view.dart';
+import 'views/arithmetic_view.dart';
+import 'views/simple_interest_view.dart';
+
 
 void main() {
   runApp(const MyApp());

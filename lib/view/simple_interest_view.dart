@@ -7,10 +7,10 @@ class SimpleInterestView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Simple Interest'),
+        title: const Text('Simple Interest View'),
       ),
       body: const Center(
-        child: Text('Simple Interest Calculations Here!'),
+        child: Text('This is the Simple Interest View screen'),
       ),
     );
   }

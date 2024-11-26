@@ -7,10 +7,10 @@ class AreaOfCircleView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Area of Circle'),
+        title: const Text('Area of Circle View'),
       ),
       body: const Center(
-        child: Text('Area of Circle Calculations Here!'),
+        child: Text('This is the Area of Circle View screen'),
       ),
     );
   }
